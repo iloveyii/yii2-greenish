@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "softhem\\": "vendor/softhem/"
+            "softhem\\": "vendor/softhem/yii2-greenish/"
         }
     }
 }
