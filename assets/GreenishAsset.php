@@ -1,15 +1,15 @@
 <?php
-namespace softhem\asset;
+namespace softhem\assets;
 
 use yii\web\AssetBundle;
 
 /**
- * AdminLte AssetBundle
- * @since 0.1
+ * Greenish AssetBundle
+ * @since 1.0.0
  */
 class GreenishAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/softhem/web/greenish';
+    public $sourcePath = '@vendor/softhem/yii2-greenish/web';
     public $css = [
         'css/animate.css',
         'css/normalize.min.css',
