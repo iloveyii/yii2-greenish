@@ -311,7 +311,6 @@ h6 {
     Header Site Styling
    ========================================================================== */
 .site-header {
-  position: fixed;
   min-height: 82px;
   height: 82px;
   width: 100%;
